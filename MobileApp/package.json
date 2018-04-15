@@ -19,6 +19,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "base64-arraybuffer": "^0.1.5",
     "expo": "^25.0.0",
     "firebase": "^4.11.0",
     "lodash": "^4.17.5",
@@ -26,6 +27,7 @@
     "mobx-react": "^5.0.0",
     "react": "16.2.0",
     "react-native": "0.52.0",
+    "react-native-communications": "^2.2.1",
     "react-navigation": "^1.5.7"
   }
 }
